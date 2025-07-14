@@ -71,5 +71,3 @@ I'm a passionate Software Engineer with 5 years of experience in crafting amazin
 Thanks for visiting my profile! Feel free to check out my repositories and connect with me. Let's build something awesome together! 🚀
 
 ---
-
-![Visitor Count](https://profile-counter.glitch.me/je-martinez/count.svg)
