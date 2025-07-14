@@ -69,5 +69,3 @@ I'm a passionate Software Engineer with 5 years of experience in crafting amazin
 - 🌮 Tacos is my favorite food!
 
 Thanks for visiting my profile! Feel free to check out my repositories and connect with me. Let's build something awesome together! 🚀
-
----
